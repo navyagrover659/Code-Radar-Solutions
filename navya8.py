@@ -1,11 +1,12 @@
-count = 1
-while count <= 5 :
-    print("hello")
-    count += 1
+a =int(input("enter first number: "))
+b =int(input("enter second number: "))
+c =int(input("enter third number: "))
 
-i = 1   
-while i <= 5 :
-    print("hello")
-    i=+1
+if(a>b and a>c):
+    print("a is greater", a)
+elif(b>c):
+    print("b is greater", b)
+else:
+    print("c is greater", c)
 
-print("loop ended")
+
