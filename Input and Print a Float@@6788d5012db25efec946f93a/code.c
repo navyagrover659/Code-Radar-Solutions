@@ -2,6 +2,6 @@
 
 int main() {
     int char;
-    printf("%s", welcome());
+    printf("%s", welcome);
     return 0;
 }
