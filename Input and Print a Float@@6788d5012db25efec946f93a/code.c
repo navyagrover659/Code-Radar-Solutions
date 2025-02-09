@@ -2,6 +2,7 @@
 
 int main() {
     int char;
-    printf("%s", welcome);
+    printf("welcome");
+    scaanf("%s",&s);
     return 0;
 }
