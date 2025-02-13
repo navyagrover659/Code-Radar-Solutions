@@ -1,5 +1,5 @@
 #include<stdio.h>
-char str a[20],str b[20]{
-scanf("%s%s",&a,&b);
-printf("You entered: %s and %s",a,b);
+char str1[20],str2[20]{
+scanf("%s%s",&str1,&str2);
+printf("You entered: %s and %s",str1,str2);
 return 0;}
