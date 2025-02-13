@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main(){
 char str[20] a,str[20] b;
-int b;
+int c;
 scanf("%s%s%d",&a,&b,&c);
 printf("Name: %s\n",a);
-printf("Age: %d\n",b);
-printf("Hobby: %s\n",c);
+printf("Age: %d\n",c);
+printf("Hobby: %s\n",b);
 return 0;
 }
