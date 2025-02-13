@@ -2,7 +2,7 @@
 int main(){
 char stra[20] ,strb[20] ;
 int c;
-scanf("%s%s%d",&a,&c,&b);
+scanf("%s%s%d",&sta,&strb,&c);
 printf("Name: %s\n",a);
 printf("Age: %d\n",c);
 printf("Hobby: %s\n",b);
