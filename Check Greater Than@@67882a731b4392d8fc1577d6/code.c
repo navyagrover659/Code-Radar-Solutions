@@ -7,6 +7,6 @@ int main(){
     else if(b>a){
         printf("False");
     }
-    printf("%d\n",a,b);
+    printf("%s\n",a,b);
     return 0;
 }
