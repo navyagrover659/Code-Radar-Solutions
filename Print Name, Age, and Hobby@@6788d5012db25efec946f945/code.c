@@ -2,9 +2,9 @@
 int main(){
 char stra[20] ,strb[20] ;
 int c;
-scanf("%s%s%d",&stra,&strb,&c);
+scanf("%s%d%s",&stra,&c,&strb);
 printf("Name: %s\n",a);
-printf("Age: %d\n",c);
-printf("Hobby: %s\n",b);
+printf("\nAge: %d\n",c);
+printf("\nHobby: %s\n",b);
 return 0;
 }
