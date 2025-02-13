@@ -4,7 +4,7 @@ char stra[20] ,strb[20] ;
 int c;
 scanf("%s%d\n%s",&stra,&c,&strb);
 printf("Name: %s\n",a);
-printf("\nAge: %d\n",c);
-printf("\nHobby: %s\n",b);
+printf("Age: %d\n",c);
+printf("Hobby: %s\n",b);
 return 0;
 }
